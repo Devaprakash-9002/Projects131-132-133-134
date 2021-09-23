@@ -1,0 +1,40 @@
+
+.heading {
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status { 
+font-size: 18px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#bedroom {
+    font-size: 25px;
+    color: white;
+}
+
+#gadgets {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+#tvANDac {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+#fruits {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
